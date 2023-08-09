@@ -1,4 +1,4 @@
-#Sql7corespopulares
+# Sql7corespopulares
 
 -- Cria a tabela "cores"
 CREATE TABLE cores (
